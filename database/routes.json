@@ -1,0 +1,4 @@
+{
+    "/post": "/post?_embed=comment",
+    "/user": "/user?_embed=userContact&_embed=userAddress"
+  }
